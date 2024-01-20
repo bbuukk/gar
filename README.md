@@ -4,7 +4,7 @@
 
 <!--HOW TO WRITE COOL README FILE TUTORIAL https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/-->
 #  German Language Leaning application 'GRA'
-## 🔷 Overview
+## 🔶 Overview
 
 React Native featuring a robust dictionary filled with a vast collection of German words, each accompanied by their respective translations.
 But that’s not all - we provide real-world examples of these words used in sentences, giving context and aiding comprehension.
@@ -39,21 +39,21 @@ Whether you’re a beginner or advanced learner, our application is designed to 
     Cute looking site, but with functionality of a real shop
 -->
 
-## 🔷 Tech Stack
+## 🔶 Tech Stack
 
-🔹 React Native
-🔹 Expo
+🔸 React Native
+🔸 Expo
 
-🔹 Styling: 
+🔸 Styling: 
 🔸 [Bootstrap](https://getbootstrap.com/)
 🔸 [Material UI](https://mui.com/)
 🔸 [SASS/SCSS](https://sass-lang.com/)
 🔸 [Styled Components](https://styled-components.com/)
 
-## 🔷 Design
+## 🔶 Design
 
 Design made in [Figma](figma.com/)<br>
 Here is [link](https://www.figma.com/file/fUZJ4aw95Y3pmc0G9nPi2v/design?type=design&node-id=3%3A38&mode=design&t=E2oBbd4VuaIk3CWm-1) to design file of the project 
 
-## 🔷 Helpful links
+## 🔶 Helpful links
 
