@@ -6,7 +6,7 @@
 # 🇩🇪 German Language Leaning application 'GRA'
 ## Overview
 
-React Native featuring a robust dictionary filled with a vast collection of German words, each accompanied by their respective translations.
+React Native application featuring a robust dictionary filled with a vast collection of German words, each accompanied by their respective translations.
 But that’s not all - we provide real-world examples of these words used in sentences, giving context and aiding comprehension.
 To cater to all learning stages, we’ve thoughtfully categorized the words into various levels of difficulty such as A1, A2, B1, and so on.
 Whether you’re a beginner or advanced learner, our application is designed to facilitate a smooth and effective language learning journey
