@@ -1,0 +1,20 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "    **/*.css": true,
+    "    **/*.module.scss": true,
+    "    **/*.scss": true,
+    "**/*.css.map": true,
+    "**/*.gitignore": true,
+    "**/*.md": true,
+    "**/*.module.css": true,
+    "**/.eslintrc.js": true,
+    "**/.prettierrc.js": true
+  },
+  "explorerExclude.backup": {}
+}
