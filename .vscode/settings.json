@@ -1,5 +1,22 @@
 {
   "files.exclude": {
+    "**/.git": false,
+    "**/.svn": false,
+    "**/.hg": false,
+    "**/CVS": false,
+    "**/.DS_Store": false,
+    "**/Thumbs.db": false,
+    "    **/*.css": false,
+    "    **/*.module.scss": false,
+    "    **/*.scss": false,
+    "**/*.css.map": false,
+    "**/*.gitignore": false,
+    "**/*.md": false,
+    "**/*.module.css": false,
+    "**/.eslintrc.js": false,
+    "**/.prettierrc.js": false
+  },
+  "explorerExclude.backup": {
     "**/.git": true,
     "**/.svn": true,
     "**/.hg": true,
@@ -15,6 +32,5 @@
     "**/*.module.css": true,
     "**/.eslintrc.js": true,
     "**/.prettierrc.js": true
-  },
-  "explorerExclude.backup": {}
+  }
 }

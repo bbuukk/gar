@@ -1,6 +1,6 @@
-import { FlatList, View, Text, TouchableOpacity } from 'react-native';
-import styled from 'styled-components/native';
-import { WordContainer } from '../comps/wordContainer';
+import { FlatList, View, Text, TouchableOpacity } from "react-native";
+import styled from "styled-components/native";
+import { WordContainer } from "../comps/wordContainer";
 
 const StyledFlatList = styled.FlatList`
   padding-top: 20px;
@@ -33,11 +33,15 @@ const CenteredView = styled.View`
   align-items: center;
 `;
 
+const MarginView = styled.View`
+  margin-bottom: 5px;
+`;
+
 const WORDS = [
-  { word: 'ahsdfl', prep: 'prop' },
-  { word: 'A2', prep: 'adjective' },
-  { word: 'B1', prep: 'noun' },
-  { word: 'B1', prep: 'noun' },
+  { word: "ahsdfl", prep: "prop" },
+  { word: "A2", prep: "adjective" },
+  { word: "B1", prep: "noun" },
+  { word: "2B1", prep: "noun" },
 ];
 
 export default function WordsList({ navigation, route }) {
@@ -54,10 +58,12 @@ export default function WordsList({ navigation, route }) {
           renderItem={({ item }) => (
             <TouchableOpacity
               onPress={() => {
-                navigation.navigate('Word', { item });
+                navigation.navigate("Word", { item });
               }}
             >
-              <WordContainer item={item} />
+              <MarginView>
+                <WordContainer item={item} />
+              </MarginView>
             </TouchableOpacity>
           )}
         />

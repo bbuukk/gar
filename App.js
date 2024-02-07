@@ -1,32 +1,32 @@
-import { ThemeProvider } from 'styled-components';
-import { NavigationContainer } from '@react-navigation/native';
-import { FlatList, View, Text, StyleSheet } from 'react-native';
-import styled from 'styled-components/native';
-import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
+import { ThemeProvider } from "styled-components";
+import { NavigationContainer } from "@react-navigation/native";
+import { FlatList, View, Text, StyleSheet } from "react-native";
+import styled from "styled-components/native";
+import Icon from "react-native-vector-icons/MaterialCommunityIcons";
 
-import WordsList from './screens/WordsList';
-import Home from './screens/Home';
+import WordsList from "./screens/WordsList";
+import Home from "./screens/Home";
 
-import { createStackNavigator } from '@react-navigation/stack';
-import { Image } from 'react-native';
-import { HeaderBackButton } from './comps/HeaderBackButton';
-import { Word } from './screens/Word';
+import { createStackNavigator } from "@react-navigation/stack";
+import { Image } from "react-native";
+import { HeaderBackButton } from "./comps/HeaderBackButton";
+import { Word } from "./screens/Word";
 
 export default function App() {
   const Stack = createStackNavigator();
 
   const theme = {
     colors: {
-      milk: '#FFFBF5',
-      purple1: '#EBE3FA',
-      purple2: '#DDD0F6',
-      purple3: '#D0BEF3',
-      purple4: '#C2ABEF',
-      purple5: '#B599EB',
-      purple6: '#A786E8',
+      milk: "#FFFBF5",
+      purple1: "#EBE3FA",
+      purple2: "#DDD0F6",
+      purple3: "#D0BEF3",
+      purple4: "#C2ABEF",
+      purple5: "#B599EB",
+      purple6: "#A786E8",
     },
     fonts: {
-      main: 'robotico',
+      main: "robotico",
     },
   };
 
@@ -35,7 +35,7 @@ export default function App() {
       <NavigationContainer>
         <Stack.Navigator
           screenOptions={{
-            headerTintColor: '#A786E8',
+            headerTintColor: "#A786E8",
             headerStyle: {
               ...styles.headerStyle,
             },
@@ -48,7 +48,7 @@ export default function App() {
             name="Home"
             component={Home}
             options={{
-              title: '',
+              title: "",
               headerLeft: () => (
                 <Icon
                   name="menu"
@@ -82,7 +82,7 @@ export default function App() {
 const HeaderImage = () => (
   <StyledImage
     style={{ width: 25, height: 25 }}
-    source={require('./assets/brand_symbol.png')}
+    source={require("./assets/brand_symbol.png")}
   />
 );
 
@@ -93,9 +93,9 @@ const StyledImage = styled.Image`
 
 const styles = StyleSheet.create({
   headerStyle: {
-    backgroundColor: '#FFFBF5', // Change this to your desired background color
+    backgroundColor: "#FFFBF5", // Change this to your desired background color
     // For iOS
-    shadowColor: '#000',
+    shadowColor: "#000",
     shadowOffset: { width: 0, height: 2 },
     shadowOpacity: 0.8,
     shadowRadius: 2,
@@ -103,7 +103,7 @@ const styles = StyleSheet.create({
     elevation: 5,
   },
   headerTitleStyle: {
-    fontWeight: 'bold', // Change this to your desired title style
-    color: '#B599EB',
+    fontWeight: "bold", // Change this to your desired title style
+    color: "#B599EB",
   },
 });

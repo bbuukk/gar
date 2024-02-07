@@ -1,7 +1,6 @@
 import { FlatList, View, Text, TouchableOpacity, Image } from 'react-native';
 
 import styled from 'styled-components/native';
-import Accordion from '../comps/accordion';
 
 const Root = styled.View`
   flex-direction: row;
@@ -55,9 +54,6 @@ const CATEGORIES = [
 function Home({ navigation }) {
   return (
     <StyledView>
-      <Accordion title="acc">
-        <Text>Hello, it's our accordion, is it somewhat good?</Text>
-      </Accordion>
       <StyledFlatList
         data={CATEGORIES}
         keyExtractor={(item) => item.title}
