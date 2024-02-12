@@ -25,10 +25,17 @@
     "react-native-screens": "~3.29.0",
     "react-native-svg": "^14.1.0",
     "react-native-vector-icons": "^10.0.3",
-    "styled-components": "^5.3.11"
+    "styled-components": "^5.3.11",
+    "mongodb": "^6.3.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.20.0",
+    "jsdom": "^23.2.0",
+    "proxy-chain": "^2.4.0",
+    "puppeteer": "^21.6.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "random-useragent": "^0.5.0"
   },
   "private": true
 }
