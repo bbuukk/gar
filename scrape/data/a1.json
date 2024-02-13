@@ -1,0 +1,214 @@
+[
+  {
+    "word": "ab ",
+    "preposition": "preposition",
+    "translations": [
+      {
+        "word": "from",
+        "preposition": "prep",
+        "examples": []
+      },
+      {
+        "word": "as of",
+        "preposition": "prep",
+        "examples": [
+          {
+            "ger": "Ab heute tritt das neue Gesetz in Kraft.",
+            "eng": "As of today, the new law becomes effective. "
+          },
+          {
+            "ger": "Ab dem Stichtag gelten die neuen Regeln.",
+            "eng": "As of the effective date, the new rules will apply."
+          }
+        ]
+      },
+      {
+        "word": "as of 1990",
+        "preposition": "adv",
+        "examples": [
+          {
+            "ger": "Ab 1990 verwendete die Firma einen Computer für die Buchhaltung.",
+            "eng": "As of 1990 the company used a computer for its accounting."
+          }
+        ]
+      },
+      {
+        "word": "as from 1990",
+        "preposition": "adv",
+        "examples": []
+      },
+      {
+        "word": "even",
+        "preposition": "adj",
+        "examples": [
+          {
+            "ger": "Es ist einfacher auf ebenen Flächen zu gehen.",
+            "eng": "It is easier to walk on even surfaces."
+          },
+          {
+            "ger": "Ich brauche eine ebene Fläche, um mein Hemd zu bügeln.",
+            "eng": "I need an even surface to iron my shirt."
+          }
+        ]
+      },
+      {
+        "word": "smooth",
+        "preposition": "adj",
+        "examples": [
+          {
+            "ger": "Die Straße ist überhaupt nicht eben; sie ist voller Schlaglöcher.",
+            "eng": "The road is not smooth at all; it is full of potholes."
+          }
+        ]
+      },
+      {
+        "word": "level",
+        "preposition": "adj",
+        "examples": [
+          {
+            "ger": "Stellen Sie das Gerät auf eine ebene Fläche.",
+            "eng": "Place the device on a level surface."
+          }
+        ]
+      },
+      {
+        "word": "flat",
+        "preposition": "adj",
+        "examples": [
+          {
+            "ger": "Die Fläche unter dem Gerät muss plan und eben sein.",
+            "eng": "The surface below the device must be level and flat."
+          }
+        ]
+      },
+      {
+        "word": "plane",
+        "preposition": "adj",
+        "examples": [
+          {
+            "ger": "Die Oberfläche eines Tisches sollte eben sein.",
+            "eng": "The surface of a table should be plane."
+          }
+        ]
+      },
+      {
+        "word": "planar",
+        "preposition": "adj",
+        "examples": [
+          {
+            "ger": "Ebene Moleküle bilden dichte Verbindungen.",
+            "eng": "Planar molecules form dense compounds."
+          }
+        ]
+      },
+      {
+        "word": "just",
+        "preposition": "adv",
+        "examples": [
+          {
+            "ger": "Der Junge erzählt von dem Ball, den er eben gekauft hat.",
+            "eng": "The boy is talking about the ball which he has just bought."
+          },
+          {
+            "ger": "Es gibt keine allgemeine Regel, wir müssen eben improvisieren.",
+            "eng": "There is no universal rule, we just have to improvise."
+          }
+        ]
+      },
+      {
+        "word": "Vollmatrose",
+        "preposition": "m",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Abend ",
+    "preposition": "noun, masculine",
+    "translations": [
+      {
+        "word": "evening",
+        "preposition": "n",
+        "examples": [
+          {
+            "ger": "Ich trinke keinen Kaffee am Abend.",
+            "eng": "I do not drink coffee in the evening."
+          }
+        ]
+      },
+      {
+        "word": "night",
+        "preposition": "n",
+        "examples": [
+          {
+            "ger": "Sie sieht sich diese Sendung jeden Abend an.",
+            "eng": "She watches this program every night."
+          },
+          {
+            "ger": "Ich habe morgen Abend eine Verabredung. ",
+            "eng": "I have a date tomorrow night. "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "als ",
+    "preposition": "conjunction",
+    "translations": [
+      {
+        "word": "as",
+        "preposition": "conj",
+        "examples": [
+          {
+            "ger": "Er kam gerade an, als ich ging.",
+            "eng": "He arrived just as I was leaving."
+          }
+        ]
+      },
+      {
+        "word": "than",
+        "preposition": "conj",
+        "examples": [
+          {
+            "ger": "Er ist größer als sein älterer Bruder.",
+            "eng": "He is taller than his older brother."
+          },
+          {
+            "ger": "Ich würde lieber schlafen als arbeiten.",
+            "eng": "I would rather sleep than work."
+          }
+        ]
+      },
+      {
+        "word": "when",
+        "preposition": "conj",
+        "examples": [
+          {
+            "ger": "Die Kinder gingen, als die Schulglocke ertönte.",
+            "eng": "The children left when the school bell rang."
+          },
+          {
+            "ger": "Ich war froh, als meine Prüfungen vorbei waren.",
+            "eng": "I was glad when my exams were over."
+          }
+        ]
+      },
+      {
+        "word": "by the time",
+        "preposition": "conj",
+        "examples": [
+          {
+            "ger": "Als wir das Restaurant erreichten, war es bereits geschlossen. ",
+            "eng": "By the time we reached the restaurant, it was already closed. "
+          }
+        ]
+      },
+      {
+        "word": "as",
+        "preposition": "prep",
+        "examples": []
+      }
+    ]
+  }
+]
