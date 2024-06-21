@@ -52,8 +52,10 @@ Whether you’re a beginner or advanced learner, our application is designed to 
 
 ## Design
 
+
+
 Design made in [Figma](figma.com/)<br>
-Here is [link](https://www.figma.com/file/fUZJ4aw95Y3pmc0G9nPi2v/design?type=design&node-id=3%3A38&mode=design&t=E2oBbd4VuaIk3CWm-1) to design file of the project 
+Here is [link](https://www.figma.com/design/fUZJ4aw95Y3pmc0G9nPi2v/design?t=0WaWloxyyW8cTjPV-1) to design file of the project 
 
 ## Helpful links
 
